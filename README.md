@@ -1,4 +1,4 @@
-# Brain and Its Content
+# Brain and it's content
 
 Notes on the brain and its content.
 
