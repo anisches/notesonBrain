@@ -376,6 +376,16 @@ The first module tells the origin story of neuroscience:
 - **Theodor Schwann (1810-1882)**: cell theory
 - **Neuron doctrine**: neuron as basic unit of nervous system
 
+## Worthy Etymology
+
+- **Trepanation**: from Greek *trypanon*, meaning a borer or drill. Useful because the procedure literally involved drilling/cutting into the skull.
+- **Cerebrum**: Latin for brain. In modern anatomy, it refers to the large upper brain region tied to perception, cognition, and voluntary action.
+- **Cerebellum**: Latin for little brain. The name fits its smaller brain-like structure behind and below the cerebrum.
+- **Dorsal / Ventral**: from Latin direction words: *dorsum* means back, *venter* means belly. This helps remember dorsal root as back-side spinal entry and ventral root as front-side motor exit.
+- **Ablation**: from Latin *ablatio*, meaning removal or carrying away. In neuroscience, experimental ablation means removing/damaging a region to infer function from what is lost.
+- **Phrenology**: from Greek *phren* meaning mind and *-logy* meaning study. The word sounds scientific, but the skull-bump theory failed experimentally.
+- **Neuron**: from Greek *neuron*, meaning nerve or sinew. The modern neuron doctrine made the neuron the basic unit of nervous-system function.
+
 ## References For Augmented Point
 
 - Encyclopaedia Britannica, “Marie-Jean-Pierre Flourens” - summary of Flourens' lesion/removal experiments and conclusions about cerebral hemispheres, cerebellum, and medulla.
