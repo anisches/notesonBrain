@@ -31,9 +31,9 @@ Ancient Egyptian thought did not always give the brain the central role that mod
 
 This matters because neuroscience had to overcome a long historical bias: the brain was visible, but its function was not obvious.
 
-### Hippocrates
+### Hippocrates of Kos (c. 460-c. 370 BCE)
 
-Hippocrates moved closer to the modern view. He argued that the brain was not only involved in sensation, but also in intellect.
+Hippocrates of Kos moved closer to the modern view. He argued that the brain was not only involved in sensation, but also in intellect.
 
 Core idea:
 
@@ -42,15 +42,15 @@ Core idea:
 
 This was a major step away from heart-centered theories of mind.
 
-### Aristotle
+### Aristotle (384-322 BCE)
 
 Aristotle placed more importance on the heart and treated the brain more like a cooling organ. From the modern view, this was wrong, but it shows how difficult brain function was to infer without anatomy, physiology, and experiments.
 
 The lesson: even brilliant philosophy can fail when it lacks the right experimental tools.
 
-### Galen
+### Galen of Pergamon (c. 129-c. 216 CE)
 
-Galen studied animal brains, including sheep brains. He noticed structural differences between the cerebrum and cerebellum.
+Galen of Pergamon studied animal brains, including sheep brains. He noticed structural differences between the cerebrum and cerebellum.
 
 His reasoning:
 
@@ -90,15 +90,15 @@ Basic landmarks from the diagram:
 
 ## 3. Vesalius And Descartes
 
-### Andreas Vesalius
+### Andreas Vesalius (1514-1564)
 
-Vesalius was important because he pushed anatomy toward direct observation and careful dissection.
+Andreas Vesalius was important because he pushed anatomy toward direct observation and careful dissection.
 
 In the older ventricular theory, the brain's ventricles were treated as important locations for mental faculties. This kept attention on hollow spaces and fluids inside the brain rather than on brain tissue itself.
 
-### Rene Descartes
+### Rene Descartes (1596-1650)
 
-Descartes treated the body partly like a machine. In his model, nerves could work through a kind of fluid-mechanical process.
+Rene Descartes treated the body partly like a machine. In his model, nerves could work through a kind of fluid-mechanical process.
 
 Simplified idea:
 
@@ -113,15 +113,15 @@ The later shift was from **fluid movement** to **electrical signaling**.
 
 ## 4. Electricity And Nerves
 
-### Benjamin Franklin
+### Benjamin Franklin (1706-1790)
 
-Franklin's work helped establish electricity as a real natural force that could be studied experimentally.
+Benjamin Franklin's work helped establish electricity as a real natural force that could be studied experimentally.
 
 This mattered for neuroscience because the nervous system eventually came to be understood as electrically active.
 
-### Luigi Galvani
+### Luigi Galvani (1737-1798)
 
-Galvani observed that frog muscles could twitch when nerves were stimulated electrically.
+Luigi Galvani observed in the late 1700s that frog muscles could twitch when nerves were stimulated electrically.
 
 The key idea:
 
@@ -129,9 +129,9 @@ The key idea:
 - stimulation of nerves can produce movement
 - electricity and biological tissue are connected
 
-### Emil Du Bois-Reymond
+### Emil du Bois-Reymond (1818-1896)
 
-Du Bois-Reymond helped establish that nerves and muscles produce electrical activity. This strengthened the move away from fluid theories.
+Emil du Bois-Reymond helped establish that nerves and muscles produce electrical activity. This strengthened the move away from fluid theories.
 
 The nervous system could now be understood as a signaling system.
 
@@ -187,9 +187,9 @@ Shortcut:
 Ventral = motor = outgoing
 ```
 
-### Bell-Magendie Law
+### Bell-Magendie Law (early 1820s)
 
-Charles Bell and Francois Magendie are associated with the discovery that dorsal and ventral spinal roots have different functions.
+Sir Charles Bell (1774-1842) and Francois Magendie (1783-1855) are associated with the discovery that dorsal and ventral spinal roots have different functions.
 
 Clean version:
 
@@ -212,9 +212,9 @@ Infer area X contributes to function Y
 
 This is powerful because it connects structure to function. But it is also limited, because removing one area can disturb connected systems.
 
-### Flourens
+### Marie-Jean-Pierre Flourens (1794-1867)
 
-Marie-Jean-Pierre Flourens used systematic destruction/removal of brain regions in animals, especially birds, to study function.
+Marie-Jean-Pierre Flourens used systematic destruction/removal of brain regions in animals, especially birds, to study function. His key brain-ablation experiments were conducted mainly from 1814 to 1822.
 
 His experiments helped support broad functional distinctions:
 
@@ -319,9 +319,9 @@ Studying squid helped reveal general rules of nerve signaling.
 
 ## 10. Cell Theory And The Neuron
 
-### Theodor Schwann
+### Theodor Schwann (1810-1882)
 
-Schwann is associated with cell theory.
+Theodor Schwann is associated with cell theory, especially the 1839 formulation that animal tissues are made of cells.
 
 Core idea:
 
@@ -352,32 +352,31 @@ brain function -> nervous system circuits -> neurons -> electrical and chemical 
 The first module tells the origin story of neuroscience:
 
 - ancient people recognized that the head/brain mattered, but explanations were mixed with spirits, heart theories, and speculation
-- Hippocrates placed sensation and intellect in the brain
-- Galen connected brain structure with function
-- Vesalius improved anatomical observation
-- Descartes gave a mechanical but still fluid-based model
-- Galvani and Du Bois-Reymond helped shift the field toward electrical signaling
-- Bell and Magendie separated sensory and motor roots
-- Flourens used ablation to connect brain regions with functions
+- Hippocrates of Kos (c. 460-c. 370 BCE) placed sensation and intellect in the brain
+- Galen of Pergamon (c. 129-c. 216 CE) connected brain structure with function
+- Andreas Vesalius (1514-1564) improved anatomical observation
+- Rene Descartes (1596-1650) gave a mechanical but still fluid-based model
+- Luigi Galvani (1737-1798) and Emil du Bois-Reymond (1818-1896) helped shift the field toward electrical signaling
+- Sir Charles Bell (1774-1842) and Francois Magendie (1783-1855) separated sensory and motor roots
+- Marie-Jean-Pierre Flourens (1794-1867; ablation experiments mainly 1814-1822) used ablation to connect brain regions with functions
 - phrenology failed because skull bumps could not explain mind or personality
 - evolution and cell theory helped frame the nervous system as a biological system built from neurons
 
 ## Key Memory Hooks
 
-- **Hippocrates**: brain as seat of sensation and intellect
-- **Aristotle**: heart-centered view; brain misunderstood
-- **Galen**: cerebrum vs cerebellum distinction
-- **Descartes**: fluid-mechanical theory
-- **Galvani**: electrical stimulation causes muscle twitch
-- **Du Bois-Reymond**: electrical activity in nerves/muscles
-- **Bell-Magendie**: dorsal sensory, ventral motor
-- **Flourens**: experimental ablation and broad localization
+- **Hippocrates of Kos (c. 460-c. 370 BCE)**: brain as seat of sensation and intellect
+- **Aristotle (384-322 BCE)**: heart-centered view; brain misunderstood
+- **Galen of Pergamon (c. 129-c. 216 CE)**: cerebrum vs cerebellum distinction
+- **Rene Descartes (1596-1650)**: fluid-mechanical theory
+- **Luigi Galvani (1737-1798)**: electrical stimulation causes muscle twitch
+- **Emil du Bois-Reymond (1818-1896)**: electrical activity in nerves/muscles
+- **Bell-Magendie Law (early 1820s)**: dorsal sensory, ventral motor
+- **Marie-Jean-Pierre Flourens (1794-1867)**: experimental ablation and broad localization
 - **Phrenology**: skull bumps do not explain personality
-- **Schwann**: cell theory
+- **Theodor Schwann (1810-1882)**: cell theory
 - **Neuron doctrine**: neuron as basic unit of nervous system
 
 ## References For Augmented Point
 
 - Encyclopaedia Britannica, “Marie-Jean-Pierre Flourens” - summary of Flourens' lesion/removal experiments and conclusions about cerebral hemispheres, cerebellum, and medulla.
 - Historical accounts of Flourens describe localized brain lesions/removals in animals as a foundation for experimental brain science.
-
